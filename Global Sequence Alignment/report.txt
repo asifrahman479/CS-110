@@ -1,0 +1,43 @@
+1. Hours to complete the project: 7-8 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Calculating Edit Distance Using Dynamic Programming):
+First few steps were very easy. The hardest part was filling out the rest of
+the opt in a reverse order and setting the range of i and j for that part. I
+attended the supplemental instruction and after the instructor showed us the
+visual representation, I had an understanding about it. 
+I also faced problem on the last part where I had to figure out whether or
+not the elements of opt weren't in the last column. I used to nested "for"
+loops to approach this problem and checked if it was the last element of the 
+column and row or not. 
+
+   Problem 2 (Recovering the Alignment): I learnt to Read the opt as a 2D 
+array using stdarray.readInt2D(). Recovering the optimal alignment was very
+challenging. I tried to follow the checklist. I used a while loop and checked
+each condition to see if the elements are equal to each other or is there any
+gap. I struggled to write after each conditions like writing 0 if the elements
+are the same. But I ran again and again on turminal, then I was able to come up
+with the solution and space issues. 
+ 
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+  Anh Huy            classmate    helped me to understand the each problems
+                                  and with figuring out the optimal alignment.
+
+  Juliana            supplemental   drew visual representation to have a better
+                     instructor     understanding, and how to approach using
+                                      the hints.
+                         
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I didn't really enjoy it, I had a hard time understanding the problem. I 
+learned to deal with complicated lists and arrays.
