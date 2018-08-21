@@ -1,0 +1,25 @@
+1. Hours to complete the project: ... hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Tour Data Type): Understanding the problem was easier comparing
+with other prokects. I just had a hard time while doing the last two function.
+But after going to the SI, I could easily complete the whole project.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+Julianna			SI instructor	She went over the whole problem and helped to
+									complete the project.
+Dimitrio			Friend			I missed some of the parts from SI, so he
+									helped to go over this.
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   It was a pretty relaxing project to end the course. 
