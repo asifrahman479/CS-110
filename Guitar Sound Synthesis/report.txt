@@ -1,0 +1,31 @@
+1. Hours to complete the project: 3 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Ring Buffer): Understanding the concept of ring buffer and each
+ element inside the buffer was difficult at first. Then our supplimental
+instructor explained everything in detail about each element. That helped to
+understand the part before enqueue. To understand the enqueue and dequeue we
+drew everything every possible steps and then came up with the solution.
+
+   Problem 2 (Guitar String): The 'create' and 'create_from_samples' wasn't in
+order, so it was confusing to understand. In the 'tic' function I did 
+buffer.peek at first, and forgot to dequeue, later my S.I helped me to figure
+that out
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+  Ann Huy			classmate		helped me to understand the peek function.
+  Juliana		Supplimental		helped me to understand the concept of 
+					Intructor		ring buffer.
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I enjoyed dealing with elements inside the list.
