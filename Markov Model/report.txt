@@ -1,0 +1,36 @@
+1. Hours to complete the project: 10 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Markov Model Data Type): Understanding the project was hard for
+me at first. I faced a lot of problem while doing replace_unknown. It 
+individually work for the first problem but later didn't work for problem 2
+and 3. I had to change the inner for loop in the "replace_unknown" function.
+And sometimes I didn't call use self. which also gave me an error. My friend
+Joyce helped me to fix these issues.
+
+   Problem 2 (Random Text Generator): This problem was straightforward, I
+didn't really face any problem. The checklist was very helpful.
+
+   Problem 3 (Noisy Message Decoder): The coding for this problem was
+straighforward too. Initially I got error for the replace_unknown, so I had to
+fix that.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+Juliana					TA			She helped to understand the project, and
+									explain every function.
+Joyce				Friend			She helped my fix the replace_unknown error
+									for problem 2 and 3.
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I enjoyed it when I could solve the errors and understood where I made the
+   mistakes
